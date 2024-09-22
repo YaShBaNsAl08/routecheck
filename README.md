@@ -1,10 +1,10 @@
-# About Project
-
-This project is created to check the routeing and angular project deployment on Github.
-
 # Routecheck
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+
+# About Project
+
+This project is created to check the routeing and angular project deployment on Github.
 
 ## Development server
 
